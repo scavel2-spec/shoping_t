@@ -1,0 +1,7 @@
+{
+  "name": "Shopping Tatuapé - Tour Virtual & Benefícios",
+  "description": "Explore o tour virtual 360° pelas lojas do Shopping Tatuapé e garanta cupons e benefícios exclusivos na plataforma digital.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
